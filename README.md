@@ -1,20 +1,15 @@
-# Futura Tecnóloga em Análise e Desenvolvimento de Sistemas
+# Olá! 👋😄 Prazer, Sou a Juliana!
 
-Olá! 👋  
-Sou futura Tecnóloga em Análise e Desenvolvimento de Sistemas, especializada em Ciência de Dados.  
-Apaixonada por ensinar e compartilhar conhecimento técnico!
-
-## 🔍 Sobre mim
-Atualmente, estou no último período da graduação em Análise e Desenvolvimento de Sistemas, com especialização em Ciência de Dados em andamento. Tenho experiência em ensino técnico, focado em programação, desenvolvimento de software e bancos de dados, além de vivência em suporte técnico e atividades administrativas.
-
+🗨 Sobre mim:
+Sou graduanda em Análise e Desenvolvimento de Sistemas, com especialização em Ciência de Dados na escola DNC. Apaixonada por ensinar e compartilhar conhecimento técnico, estou no último período da graduação. Minha formação inclui o ensino médio técnico em Desenvolvimento de Sistemas, com ênfase em programação, desenvolvimento de software e bancos de dados, além de experiência em suporte técnico e atividades administrativas.
 💡 No meu trabalho, sou motivada pela busca constante de soluções tecnológicas inovadoras e eficientes, com ênfase na melhoria contínua. Acredito no poder do código e da colaboração para criar um impacto positivo.
 
-## 🔧 Tecnologias que estou explorando
-- JavaScript
-- Python
-- Ciência de Dados
-- Desenvolvimento de Software
-- MongoDB
+## 🔧 Competências:
+  -Power BI Intermediário
+  -Excel Intermediário
+  -Python Teoria Avançada
+  -SQL Teoria Avançada
+  -Configuração de sistemas e treinamento de usuários
 
 ## 📩 Vamos conversar!
 Estou sempre aberta a novas ideias e oportunidades.
