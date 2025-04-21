@@ -1,5 +1,5 @@
 # Olá! 👋😄 Prazer, Sou a Juliana!
-# REPOSITÓRIO VOLTADO A ANÁLISE DE DADOS
+# REPOSITÓRIO VOLTADO A ANÁLISE DE DADOS E O GERAL COMO PROFESSORA
 🗨 Sobre mim:
 Sou graduanda em Análise e Desenvolvimento de Sistemas, com especialização em Ciência de Dados na escola DNC. Apaixonada por ensinar e compartilhar conhecimento técnico, estou no último período da graduação. Minha formação inclui o ensino médio técnico em Desenvolvimento de Sistemas, com ênfase em programação, desenvolvimento de software e bancos de dados, além de experiência em suporte técnico e atividades administrativas.
 💡 No meu trabalho, sou motivada pela busca constante de soluções tecnológicas inovadoras e eficientes, com ênfase na melhoria contínua. Acredito no poder do código e da colaboração para criar um impacto positivo.
